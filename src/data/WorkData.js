@@ -29,12 +29,12 @@ export const Work = [
     },
     {
         id:4,
-        name:"Coinbase Blockchain App",
-        description:"Coinbase Blockchain Web 3.0 App with Next.js | Sanity.io | thirdweb.",
-        tags:["Next.js","Sanity.io","thirdweb"],
+        name:"React NFT Marketplace",
+        description:"React Responsive NFT Website Design Using ReactJs | React NFT Marketplace.",
+        tags:["react"],
         
-        demo:"https://coinbaseblockchain.vercel.app/",
-        github:"https://github.com/markglennlabarento/coinbaseblockchain"
+        demo:"https://react-nft-website-main.vercel.app/",
+        github:"https://github.com/markglennlabarento/React-NFT-Website-main"
        
     },{
         id:5,

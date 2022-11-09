@@ -25,11 +25,11 @@ export const Blogs = [
     },
     {
         id:4,
-        name:"Coinbase Blockchain Web 3.0 App with Next.js | Sanity.io | thirdweb.",
-        tags:["Next.js","Sanity.io","thirdweb"],
-        date:"3 May, 2022",
-        imgSrc:"https://cdn.dribbble.com/users/5087167/screenshots/18957566/media/0cf51d0cc165f8e1466470fc0accd5c5.png",
-        link:"https://coinbaseblockchain.vercel.app/"
+        name:"React Responsive NFT Website Design Using ReactJs | React NFT Marketplace.",
+        tags:["react"],
+        date:"8 November, 2022",
+        imgSrc:"https://cdn.dribbble.com/users/5087167/screenshots/19847801/media/8893defd7c57badaf09e8e95ccf507d0.png",
+        link:"https://react-nft-website-main.vercel.app/"
     },
     {
         id:5,
